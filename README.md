@@ -19,4 +19,4 @@ This code sample demonstrates different Angular Architecture concepts. It's used
 
 ## The Angular JumpStart Application
 
-You can find an example of an application that follows the rules in this course at https://github.com/DanWahlin/Angular-JumpStart
+You can find an example of an application that follows the rules in this course at https://github.com/coulombechance/angular-architecture
